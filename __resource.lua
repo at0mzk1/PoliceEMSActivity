@@ -13,6 +13,8 @@ server_scripts {
 }
 
 client_scripts {
+	'locales/en.lua',
+    'locales/es.lua',
 	'client/main.lua'
 }
 
